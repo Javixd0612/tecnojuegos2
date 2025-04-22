@@ -1,3 +1,21 @@
+TecnoJuegos
+Descripción
+TecnoJuegos; es un aplicativo web diseñado para mejorar la gestión de salas de videojuegos. Su objetivo es optimizar la administración de consolas, horarios y reservas, brindando una mejor experiencia tanto para los dueños de las salas como para los clientes. A través de este sistema, los usuarios pueden ver la disponibilidad de consolas, reservar turnos y conocer los precios según la consola y la duración de uso.
+
+Tecnologías utilizadas
+Lenguaje: PHP
+Framework: Laravel
+Base de datos: MySQL (gestionada con phpMyAdmin)
+Editor de código: Visual Studio Code
+Servidor local: XAMPP (o equivalente con Apache y MySQL)
+Requisitos previos
+PHP >= 8.1
+Composer instalado (https://getcomposer.org)
+Git
+MySQL o XAMPP con phpMyAdmin
+Visual Studio Code (opcional pero recomendado)
+Laravel CLI (opcional)}
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
